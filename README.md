@@ -1,4 +1,4 @@
-Documentação de API Rest com Swagger UI
+Curso: Documentação de API Rest com Swagger UI
 
 Página do treinamento: https://projetojavaweb.com/certificado-aluno/paginavenda/oferta/jssqspok/conta/74
 
