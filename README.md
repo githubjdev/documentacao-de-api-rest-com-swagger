@@ -2,6 +2,7 @@
 Documentação de API Rest com Swagger UI
 
 Página do treinamento: https://projetojavaweb.com/certificado-aluno/paginavenda/oferta/jssqspok/conta/74
+
 Plataforma EAD: https://projetojavaweb.com/certificado-aluno/login
 
 Trata-se de uma aplicação open source que auxilia desenvolvedores nos processos de definir, criar, documentar e consumir APIs REST.  
